@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AluraGeek:
 🛒 Un e-commerce de productos tecnológicos, donde puedes visualizar, agregar y gestionar productos dinámicamente.
 
@@ -104,3 +105,6 @@ Amplía la imagen al hacer clic sobre ella.
 
 
 
+=======
+# AluraGeek
+>>>>>>> 6e51b0aa7d453d202190264e5cf4dd5ed7314505
